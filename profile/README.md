@@ -12,4 +12,4 @@ Group of comrades who are enthusiasts about all the IT stuff
 
 ## Routine
 
-``` Eat, sleep, play ctfs, write/steal code, learning ```   
+``` Eat, sleep, play ctfs, write/steal some code, learn ```   
